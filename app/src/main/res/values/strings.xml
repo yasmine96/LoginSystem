@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="click_to_change">Click to Change</string>
+</resources>
